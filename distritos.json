@@ -266,7 +266,8 @@
 						{"title": "Volio"},
 						{"title": "Concepción"},
 						{"title": "Zapotal"},
-						{"title": "San Isidro de Peñas Blancas"}
+						{"title": "San Isidro de Peñas Blancas"},
+						{"title": "San Lorenzo"}
 					]
 				},
 				{
@@ -287,7 +288,8 @@
 					"distritos": [
 						{"title": "San Mateo"},
 						{"title": "Desmonte"},
-						{"title": "Jesús María"}
+						{"title": "Jesús María"},
+						{"title": "Labrador"}
 					]
 				},
 				{
@@ -312,8 +314,8 @@
 						{"title": "Cirrí Sur"},
 						{"title": "San Jerónimo"},
 						{"title": "San Juan"},
-						{"title": "Palmitos"},
-						{"title": "Rosario"}
+						{"title": "Rosario"},
+						{"title": "Palmitos"}
 					]
 				},
 				{
@@ -397,7 +399,8 @@
 						{"title": "Bijagua"},
 						{"title": "Delicias"},
 						{"title": "Dos Ríos"},
-						{"title": "Yolillal"}
+						{"title": "Yolillal"},
+						{"title": "Canalete"}
 					]
 				},
 				{
@@ -414,7 +417,8 @@
 					"distritos": [
 						{"title": "San Rafael"},
 						{"title": "Buenavista"},
-						{"title": "Cote"}
+						{"title": "Cote"},
+						{"title": "Katira"}
 					]
 				}
 			]
@@ -601,7 +605,8 @@
 				{
 					"title": "San Pablo",
 					"distritos": [
-						{"title": "San Pablo"}
+						{"title": "San Pablo"},
+						{"title": "Rincón de Sabanilla"}
 					]
 				},
 				{
@@ -799,7 +804,8 @@
 						{"title": "Palmar"},
 						{"title": "Sierpe"},
 						{"title": "Bahía Ballena"},
-						{"title": "Piedras Blancas"}
+						{"title": "Piedras Blancas"},
+						{"title": "Bahía Drake"}
 					]
 				},
 				{
@@ -816,7 +822,7 @@
 						{"title": "Golfito"},
 						{"title": "Puerto Jiménez"},
 						{"title": "Guaycará"},
-						{"title": "Pavon"}
+						{"title": "Pavón"}
 					]
 				},
 				{
@@ -826,7 +832,8 @@
 						{"title": "Sabalito"},
 						{"title": "Agua Buena"},
 						{"title": "Limoncito"},
-						{"title": "Pittier"}
+						{"title": "Pittier"},
+						{"title": "Gutiérrez Brown"}
 					]
 				},
 				{
@@ -873,7 +880,8 @@
 						{"title": "Rita"},
 						{"title": "Roxana"},
 						{"title": "Cariari"},
-						{"title": "Colorado"}
+						{"title": "Colorado"},
+						{"title": "La Colonia"}
 					]
 				},
 				{
