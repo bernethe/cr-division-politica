@@ -278,7 +278,6 @@
 						{"title": "San José"},
 						{"title": "San Roque"},
 						{"title": "Tacares"},
-						{"title": "Río Cuarto"},
 						{"title": "Puente Piedra"},
 						{"title": "Bolívar"}
 					]
@@ -420,7 +419,13 @@
 						{"title": "Cote"},
 						{"title": "Katira"}
 					]
-				}
+				},
+				{
+					"title": "Río Cuarto",
+					"distritos": [
+						{"title": "Río Cuarto"}
+					]
+				},
 			]
 		},
 		{
