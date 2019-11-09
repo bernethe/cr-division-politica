@@ -423,7 +423,9 @@
 				{
 					"title": "Río Cuarto",
 					"distritos": [
-						{"title": "Río Cuarto"}
+						{"title": "Río Cuarto"},
+						{"title": "Santa Isabel"},
+						{"title": "Santa Rita"}
 					]
 				}
 			]
