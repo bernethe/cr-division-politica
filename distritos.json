@@ -864,6 +864,18 @@
 						{"title": "Jacó"},
 						{"title": "Tárcoles"}
 					]
+				},
+				{
+					"title": "Monteverde",
+					"distritos": [
+						{"title": "Monteverde"}
+					]
+				},
+				{
+					"title": "Puerto Jiménez",
+					"distritos": [
+						{"title": "Puerto Jiménez"}
+					]
 				}
 			]
 		},
